@@ -1,0 +1,14 @@
+{
+    "task_description": "Generate distinct one-word synonyms for the input word. If the input word is a commonly used English abbreviation, provide synonyms for the full form, including the full form itself. The synonyms should maintain the original meaning of the word in different contexts and should not be the same as the input word or each other. Ensure that the synonyms match the input word in terms of tense, voice, number, and capitalization. If no synonyms can be found, return a space. Please return the synonyms, each on a new line. Note: The synonyms should all be single words and must completely correspond to the input word in terms of tense, voice, number, and capitalization.",
+    "demonstration1": "journey\nSynonyms: expedition\tvoyage\ttrip\todyssey\ttour\ttravel\twander\touting\tramble\texcursion",
+    "demonstration2": "significant\nSynonyms: substantial\timportant\tmajor\tnotable\tconsiderable\tmeaningful\tnoteworthy\tconsiderable\tmomentous",
+    "demonstration3": "Google\nSynonyms:  ",
+    "demonstration4": "situation\nSynonyms: circumstance\tcondition\tscenario\tstate\tposition\tcase\tcontext\tstatus\tinstance\tsetting",
+    "demonstration5": "Gives\nSynonyms: Provides\tOffers\tPresents\tDelivers\tSupplies\tGrants\tAffords\tFurnishes",
+    "demonstration6": "cars\nSynonyms: automobiles\tvehicles\tmotors\tautos",
+    "demonstration7": "jumping\nSynonyms: leaping\tbounding\thurdling\tpouncing\tskipping\tvaulting\tspringing\tbouncing",
+    "demonstration8": "RAN\nSynonyms: SPRINTED\tDASHED\tRACED\tTROTTED\tGALLOPED\tHASTENED\tRUSHED",
+    "demonstration9": "info\nSynonyms: information\tnews",
+    "demonstration10": "ant\nSynonyms: emmet\tpismire"
+
+}

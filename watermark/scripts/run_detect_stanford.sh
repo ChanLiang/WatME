@@ -1,0 +1,1 @@
+python3 stanford_detect.py doc.txt --tokenizer /apdcephfs/share_1594716/chenliang/cache/vicuna-7b-v1.5-16k/ --key 42
